@@ -107,6 +107,20 @@ Expected output: `sigma_nab_results_v7.json` with full per-file scores. Runtime 
 
 ---
 
+
+---
+
+## Competitive Landscape (May 2026)
+
+A GitHub search for NAB-targeted streaming anomaly detectors returned 7 active or historical repositories. Of these:
+
+- **Sigma Detector (this repo)** is the only publicly-available implementation that publishes verified scores against the official NAB scoring profiles (Standard, Reward Low FP, Reward Low FN) with results compared to the Numenta-published baseline algorithms.
+- Deep learning approaches (Transformer-based, autoencoder-based, VAE-based) claim NAB compatibility but do not publish NAB benchmark scores in their public artifacts.
+- Classical-statistical NAB implementations (`iandanforth/NAB-detectors`, `rock913/NAB`) are abandoned (last commits 2018-2019) and were not designed as novel detectors.
+- Recent NAB-adjacent repositories are predominantly course-project quality without published benchmark verification.
+
+**Sigma is the only actively-maintained classical / coherence-based NAB detector on GitHub with reproducible benchmark results.** No publicly-available streaming anomaly detector uses Robinson's nonstandard analysis as a mathematical foundation.
+
 ## Files
 
 | File | Purpose |
