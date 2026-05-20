@@ -1,0 +1,480 @@
+{
+  "standard": {
+    "threshold": 0.2,
+    "score": 33.67790376866378
+  },
+  "reward_low_FP": {
+    "threshold": 0.475,
+    "score": 17.444012381466976
+  },
+  "reward_low_FN": {
+    "threshold": 0.2,
+    "score": 48.37960232915921
+  },
+  "per_file": [
+    {
+      "file": "realAWSCloudwatch/rds_cpu_utilization_e47b3b.csv",
+      "n_windows": 2,
+      "tp": 2,
+      "fn": 0,
+      "fp": 1,
+      "norm_standard": 90.17917363673928
+    },
+    {
+      "file": "realAWSCloudwatch/elb_request_count_8c0756.csv",
+      "n_windows": 2,
+      "tp": 2,
+      "fn": 0,
+      "fp": 1,
+      "norm_standard": 89.14002364562022
+    },
+    {
+      "file": "realTraffic/speed_t4013.csv",
+      "n_windows": 2,
+      "tp": 2,
+      "fn": 0,
+      "fp": 2,
+      "norm_standard": 88.16044499180856
+    },
+    {
+      "file": "realAdExchange/exchange-3_cpm_results.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 1,
+      "norm_standard": 87.27344377117785
+    },
+    {
+      "file": "realAWSCloudwatch/ec2_cpu_utilization_825cc2.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 2,
+      "norm_standard": 86.75566077808416
+    },
+    {
+      "file": "realAWSCloudwatch/grok_asg_anomaly.csv",
+      "n_windows": 3,
+      "tp": 3,
+      "fn": 0,
+      "fp": 7,
+      "norm_standard": 84.11041350427335
+    },
+    {
+      "file": "realTraffic/occupancy_t4013.csv",
+      "n_windows": 2,
+      "tp": 2,
+      "fn": 0,
+      "fp": 2,
+      "norm_standard": 83.345799407058
+    },
+    {
+      "file": "realAWSCloudwatch/ec2_cpu_utilization_53ea38.csv",
+      "n_windows": 2,
+      "tp": 2,
+      "fn": 0,
+      "fp": 3,
+      "norm_standard": 82.87647046289237
+    },
+    {
+      "file": "realAWSCloudwatch/ec2_cpu_utilization_ac20cd.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 2,
+      "norm_standard": 82.59110267053907
+    },
+    {
+      "file": "realTraffic/speed_6005.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 2,
+      "norm_standard": 78.28655929605787
+    },
+    {
+      "file": "realKnownCause/ambient_temperature_system_failure.csv",
+      "n_windows": 2,
+      "tp": 2,
+      "fn": 0,
+      "fp": 6,
+      "norm_standard": 73.6828443848197
+    },
+    {
+      "file": "realAdExchange/exchange-3_cpc_results.csv",
+      "n_windows": 3,
+      "tp": 2,
+      "fn": 1,
+      "fp": 0,
+      "norm_standard": 64.02888057746434
+    },
+    {
+      "file": "realAWSCloudwatch/ec2_cpu_utilization_24ae8d.csv",
+      "n_windows": 2,
+      "tp": 2,
+      "fn": 0,
+      "fp": 14,
+      "norm_standard": 60.73229051774182
+    },
+    {
+      "file": "realTraffic/occupancy_6005.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 6,
+      "norm_standard": 58.46000952591582
+    },
+    {
+      "file": "realTweets/Twitter_volume_CRM.csv",
+      "n_windows": 3,
+      "tp": 3,
+      "fn": 0,
+      "fp": 23,
+      "norm_standard": 53.23341447337017
+    },
+    {
+      "file": "realTweets/Twitter_volume_UPS.csv",
+      "n_windows": 5,
+      "tp": 5,
+      "fn": 0,
+      "fp": 37,
+      "norm_standard": 52.27277766878311
+    },
+    {
+      "file": "realAWSCloudwatch/ec2_network_in_5abac7.csv",
+      "n_windows": 2,
+      "tp": 2,
+      "fn": 0,
+      "fp": 17,
+      "norm_standard": 50.22271144145893
+    },
+    {
+      "file": "realTweets/Twitter_volume_AMZN.csv",
+      "n_windows": 4,
+      "tp": 3,
+      "fn": 1,
+      "fp": 16,
+      "norm_standard": 49.7935082328277
+    },
+    {
+      "file": "realKnownCause/ec2_request_latency_system_failure.csv",
+      "n_windows": 3,
+      "tp": 2,
+      "fn": 1,
+      "fp": 0,
+      "norm_standard": 48.90819721392457
+    },
+    {
+      "file": "realTweets/Twitter_volume_AAPL.csv",
+      "n_windows": 4,
+      "tp": 4,
+      "fn": 0,
+      "fp": 36,
+      "norm_standard": 48.80128240479447
+    },
+    {
+      "file": "realAWSCloudwatch/rds_cpu_utilization_cc0c53.csv",
+      "n_windows": 2,
+      "tp": 1,
+      "fn": 1,
+      "fp": 0,
+      "norm_standard": 46.4743091408764
+    },
+    {
+      "file": "realKnownCause/nyc_taxi.csv",
+      "n_windows": 5,
+      "tp": 5,
+      "fn": 0,
+      "fp": 38,
+      "norm_standard": 43.78360012821009
+    },
+    {
+      "file": "realAdExchange/exchange-4_cpm_results.csv",
+      "n_windows": 4,
+      "tp": 2,
+      "fn": 2,
+      "fp": 2,
+      "norm_standard": 43.7499025748231
+    },
+    {
+      "file": "realTweets/Twitter_volume_PFE.csv",
+      "n_windows": 4,
+      "tp": 4,
+      "fn": 0,
+      "fp": 38,
+      "norm_standard": 43.178678641457665
+    },
+    {
+      "file": "realTraffic/speed_7578.csv",
+      "n_windows": 4,
+      "tp": 2,
+      "fn": 2,
+      "fp": 3,
+      "norm_standard": 42.715987687181766
+    },
+    {
+      "file": "realAWSCloudwatch/ec2_cpu_utilization_5f5533.csv",
+      "n_windows": 2,
+      "tp": 1,
+      "fn": 1,
+      "fp": 0,
+      "norm_standard": 41.15416248410207
+    },
+    {
+      "file": "artificialWithAnomaly/art_daily_flatmiddle.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 11,
+      "norm_standard": 38.8711871414523
+    },
+    {
+      "file": "realTweets/Twitter_volume_GOOG.csv",
+      "n_windows": 3,
+      "tp": 3,
+      "fn": 0,
+      "fp": 25,
+      "norm_standard": 37.31259191018316
+    },
+    {
+      "file": "realAWSCloudwatch/ec2_disk_write_bytes_c0d644.csv",
+      "n_windows": 3,
+      "tp": 2,
+      "fn": 1,
+      "fp": 16,
+      "norm_standard": 35.3477355663484
+    },
+    {
+      "file": "realAWSCloudwatch/ec2_network_in_257a54.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 12,
+      "norm_standard": 33.34509372244133
+    },
+    {
+      "file": "realKnownCause/rogue_agent_key_updown.csv",
+      "n_windows": 2,
+      "tp": 2,
+      "fn": 0,
+      "fp": 22,
+      "norm_standard": 26.404105671910695
+    },
+    {
+      "file": "realTweets/Twitter_volume_IBM.csv",
+      "n_windows": 2,
+      "tp": 2,
+      "fn": 0,
+      "fp": 26,
+      "norm_standard": 25.267984852778223
+    },
+    {
+      "file": "realAdExchange/exchange-4_cpc_results.csv",
+      "n_windows": 3,
+      "tp": 1,
+      "fn": 2,
+      "fp": 4,
+      "norm_standard": 23.629543008053762
+    },
+    {
+      "file": "realTweets/Twitter_volume_KO.csv",
+      "n_windows": 3,
+      "tp": 3,
+      "fn": 0,
+      "fp": 40,
+      "norm_standard": 23.322289437268726
+    },
+    {
+      "file": "artificialWithAnomaly/art_daily_jumpsup.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 13,
+      "norm_standard": 20.9668550713182
+    },
+    {
+      "file": "artificialWithAnomaly/art_daily_jumpsdown.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 13,
+      "norm_standard": 20.32253906939237
+    },
+    {
+      "file": "realTraffic/TravelTime_387.csv",
+      "n_windows": 3,
+      "tp": 1,
+      "fn": 2,
+      "fp": 9,
+      "norm_standard": 16.050684577215318
+    },
+    {
+      "file": "realAWSCloudwatch/ec2_cpu_utilization_fe7f93.csv",
+      "n_windows": 3,
+      "tp": 1,
+      "fn": 2,
+      "fp": 10,
+      "norm_standard": 14.397231320807025
+    },
+    {
+      "file": "realKnownCause/machine_temperature_system_failure.csv",
+      "n_windows": 4,
+      "tp": 3,
+      "fn": 1,
+      "fp": 37,
+      "norm_standard": 12.436916742242419
+    },
+    {
+      "file": "realTweets/Twitter_volume_FB.csv",
+      "n_windows": 2,
+      "tp": 2,
+      "fn": 0,
+      "fp": 34,
+      "norm_standard": 1.1496008336616896
+    },
+    {
+      "file": "artificialNoAnomaly/art_daily_no_noise.csv",
+      "n_windows": 0,
+      "tp": 0,
+      "fn": 0,
+      "fp": 14,
+      "norm_standard": 0.0
+    },
+    {
+      "file": "artificialNoAnomaly/art_daily_perfect_square_wave.csv",
+      "n_windows": 0,
+      "tp": 0,
+      "fn": 0,
+      "fp": 14,
+      "norm_standard": 0.0
+    },
+    {
+      "file": "artificialNoAnomaly/art_daily_small_noise.csv",
+      "n_windows": 0,
+      "tp": 0,
+      "fn": 0,
+      "fp": 14,
+      "norm_standard": 0.0
+    },
+    {
+      "file": "artificialNoAnomaly/art_flatline.csv",
+      "n_windows": 0,
+      "tp": 0,
+      "fn": 0,
+      "fp": 0,
+      "norm_standard": 0.0
+    },
+    {
+      "file": "artificialNoAnomaly/art_noisy.csv",
+      "n_windows": 0,
+      "tp": 0,
+      "fn": 0,
+      "fp": 0,
+      "norm_standard": 0.0
+    },
+    {
+      "file": "realAWSCloudwatch/ec2_cpu_utilization_c6585a.csv",
+      "n_windows": 0,
+      "tp": 0,
+      "fn": 0,
+      "fp": 15,
+      "norm_standard": 0.0
+    },
+    {
+      "file": "realAdExchange/exchange-2_cpc_results.csv",
+      "n_windows": 1,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "norm_standard": 0.0
+    },
+    {
+      "file": "realAdExchange/exchange-2_cpm_results.csv",
+      "n_windows": 2,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "norm_standard": 0.0
+    },
+    {
+      "file": "artificialWithAnomaly/art_increase_spike_density.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 18,
+      "norm_standard": -0.1522763059748414
+    },
+    {
+      "file": "realAWSCloudwatch/ec2_cpu_utilization_77c1ca.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 13,
+      "norm_standard": -2.337569542519984
+    },
+    {
+      "file": "artificialWithAnomaly/art_load_balancer_spikes.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 18,
+      "norm_standard": -2.5881201791439743
+    },
+    {
+      "file": "realAWSCloudwatch/ec2_disk_write_bytes_1ef3de.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 18,
+      "norm_standard": -2.8994672179084073
+    },
+    {
+      "file": "realAWSCloudwatch/iio_us-east-1_i-a2eb1cd9_NetworkIn.csv",
+      "n_windows": 2,
+      "tp": 0,
+      "fn": 2,
+      "fp": 2,
+      "norm_standard": -5.537058708494975
+    },
+    {
+      "file": "realKnownCause/rogue_agent_key_hold.csv",
+      "n_windows": 2,
+      "tp": 0,
+      "fn": 2,
+      "fp": 6,
+      "norm_standard": -16.61117612548491
+    },
+    {
+      "file": "realTweets/Twitter_volume_CVS.csv",
+      "n_windows": 3,
+      "tp": 3,
+      "fn": 0,
+      "fp": 63,
+      "norm_standard": -16.872992970842724
+    },
+    {
+      "file": "realTraffic/TravelTime_451.csv",
+      "n_windows": 1,
+      "tp": 0,
+      "fn": 1,
+      "fp": 7,
+      "norm_standard": -38.75941095946479
+    },
+    {
+      "file": "artificialWithAnomaly/art_daily_nojump.csv",
+      "n_windows": 1,
+      "tp": 0,
+      "fn": 1,
+      "fp": 13,
+      "norm_standard": -71.9817632104346
+    },
+    {
+      "file": "realKnownCause/cpu_utilization_asg_misconfiguration.csv",
+      "n_windows": 1,
+      "tp": 1,
+      "fn": 0,
+      "fp": 60,
+      "norm_standard": -232.5789933291694
+    }
+  ]
+}
