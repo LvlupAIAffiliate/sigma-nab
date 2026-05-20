@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "Sigma Detector on NAB: A Coherence-Based Streaming Anomaly Detector"
+message: "If you use this software, please cite both this repository and the Shadow Theory Zenodo publication."
+type: software
+authors:
+  - given-names: Leonard
+    family-names: Benson
+    affiliation: "Altus Level Up AI LLC"
+    location: "Adelanto, California, USA"
+date-released: 2026-05-19
+license: "Non-Commercial Research Use (see LICENSE)"
+repository-code: "https://github.com/LvlupAIAffiliate/sigma-nab"
+keywords:
+  - anomaly detection
+  - time-series
+  - shadow theory
+  - sign topology
+  - nonstandard analysis
+  - numenta anomaly benchmark
+  - coherence-based detection
+  - AI safety
+references:
+  - type: article
+    title: "Shadow Theory: Resolution-Invariant Sign Topology Framework"
+    authors:
+      - given-names: Leonard
+        family-names: Benson
+    year: 2026
+    doi: "10.5281/zenodo.19476061"
+    publisher:
+      name: Zenodo
+  - type: patent
+    title: "Shadow Theory Framework and Sigma Coherence Formula"
+    authors:
+      - given-names: Leonard
+        family-names: Benson
+    year: 2026
+    number: "64/036,030"
+    location: "United States Patent and Trademark Office"

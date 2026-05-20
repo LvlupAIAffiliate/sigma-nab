@@ -1,0 +1,110 @@
+SIGMA DETECTOR — NON-COMMERCIAL RESEARCH USE LICENSE
+Copyright (c) 2026 Leonard Benson / Altus Level Up AI LLC
+Adelanto, California, United States
+
+All rights reserved.
+
+================================================================================
+GRANT OF LIMITED RIGHTS
+================================================================================
+
+Subject to the terms below, Altus Level Up AI LLC ("Licensor") grants any
+individual or organization ("Licensee") a non-exclusive, non-transferable,
+royalty-free license to:
+
+    (a) View, study, and analyze the source code in this repository;
+    (b) Reproduce the Numenta Anomaly Benchmark result published herein;
+    (c) Use the source code for personal, academic, or non-commercial
+        research purposes, provided that all derivative works include
+        attribution and the citations specified below.
+
+================================================================================
+RESTRICTIONS
+================================================================================
+
+WITHOUT WRITTEN PERMISSION FROM ALTUS LEVEL UP AI LLC, LICENSEE SHALL NOT:
+
+    1. Use this code or any derivative work in any commercial product or
+       service, including but not limited to: hosted anomaly-detection
+       services, commercial AI-safety monitoring tools, sold software
+       libraries, or any product offered for revenue.
+
+    2. Incorporate this code or its methodology into any production system
+       used for commercial purposes.
+
+    3. Sublicense, sell, or distribute this code or any derivative work to
+       third parties for commercial benefit.
+
+    4. Remove, alter, or obscure any copyright notice, citation requirement,
+       intellectual property notice, or this license text.
+
+    5. Use this code or its methodology in any manner that violates the
+       Shadow Theory intellectual property rights held by Leonard Benson
+       and Altus Level Up AI LLC, including USPTO Provisional Patent
+       Application #64/036,030 and any continuations, divisions, or
+       subsequent filings derived therefrom.
+
+================================================================================
+INTELLECTUAL PROPERTY
+================================================================================
+
+The methodology underlying this software, including the Sigma coherence
+formula, the empirical-quantile calibration procedure, the persistence
+accumulator dynamics, and the multi-scale baseline architecture, is the
+subject of:
+
+    - USPTO Provisional Patent Application #64/036,030 (filed April 10, 2026)
+    - Zenodo Publication, DOI: 10.5281/zenodo.19476061
+    - Mathematical Logic Quarterly manuscript (under review)
+
+Nothing in this license grants any rights under said patent application or
+any patent that may issue from it. Patent licensing is handled separately;
+contact Altus Level Up AI LLC for inquiries.
+
+================================================================================
+CITATION REQUIREMENT
+================================================================================
+
+Any academic publication, technical report, blog post, conference paper, or
+other public communication that uses, references, or builds upon this
+software MUST cite both:
+
+    1. The Zenodo publication of Shadow Theory:
+       Benson, L. (2026). Shadow Theory: Resolution-Invariant Sign Topology
+       Framework. Zenodo. https://doi.org/10.5281/zenodo.19476061
+
+    2. This repository:
+       Benson, L. (2026). Sigma Detector on NAB: A Coherence-Based Streaming
+       Anomaly Detector. GitHub repository.
+
+Machine-readable citation metadata is provided in CITATION.cff.
+
+================================================================================
+COMMERCIAL LICENSING
+================================================================================
+
+For commercial use, integration into commercial products, or any use not
+explicitly granted above, contact stlraybenson247@gmail.com for a commercial
+license. Reasonable terms are available for legitimate commercial use.
+
+================================================================================
+DISCLAIMER
+================================================================================
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+================================================================================
+TERMINATION
+================================================================================
+
+Any breach of this license terminates the rights granted to the breaching
+party immediately. Licensor reserves all remedies available under copyright
+law, patent law, and contract law.
+
+For licensing inquiries, contact: stlraybenson247@gmail.com
