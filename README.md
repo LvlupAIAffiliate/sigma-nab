@@ -12,7 +12,7 @@ A streaming univariate anomaly detector derived from **Shadow Theory**, a resolu
 
 This repository implements methods covered by:
 
-- **USPTO Provisional Patent Application #64/036,030** — Filed April 10, 2026. Shadow Theory framework, Sigma coherence formula, and associated detector architectures. Sole inventor: Leonard Benson.
+- **USPTO Provisional Patent Application #64/036,030** — Filed April 10, 2026. Shadow Theory framework. Production Sigma formulation and detector architectures are subject to additional patent applications pending. Sole inventor: Leonard Benson.
 - **Zenodo Publication, DOI [10.5281/zenodo.19476061](https://doi.org/10.5281/zenodo.19476061)** — Shadow Theory: Resolution-Invariant Sign Topology Framework.
 - **Mathematical Logic Quarterly** — Manuscript submitted, under review.
 
@@ -60,7 +60,7 @@ The detector was not designed for NAB. Its formula, weights, and persistence dyn
 
 - Electrical infrastructure fault detection (ShadowGrid)
 - EV battery health prognostication (Domain XVII, NASA dataset, 116-cycle lead time)
-- Clinical deterioration detection (ShadowDx, MIMIC-IV credentialed)
+- Clinical deterioration detection (ShadowDx, MIMIC-IV open-access demo v2.2; credentialed validation in progress)
 - Vector-host transmission dynamics (Domain XIX)
 
 The NAB result demonstrates that the underlying coherence framework transfers to a benchmark in a completely separate domain without task-specific adaptation.
@@ -173,3 +173,18 @@ Production implementations, including the full-fidelity Sigma scoring engine
 and tiered deployment architectures, are subject to additional patent
 applications pending. Commercial use requires licensing inquiry to
 Altus Level Up AI LLC.
+
+### Cross-Domain Applications
+
+The Shadow Theory framework has been applied across multiple domains, each
+subject to its own intellectual property protections. Domain-specific
+applications referenced in this repository — including but not limited to
+electrical infrastructure fault detection (ShadowGrid), electric vehicle
+battery health prognostication (Domain XVII), clinical deterioration
+detection (ShadowDx), vector-host transmission dynamics (Domain XIX), and
+streaming anomaly detection — are each covered by separate provisional
+patent applications, pending continuations, or filings in preparation by
+Altus Level Up AI LLC. Inclusion of cross-domain validation results in
+this public repository constitutes reference disclosure of method
+performance and does not grant license to any specific domain application.
+
