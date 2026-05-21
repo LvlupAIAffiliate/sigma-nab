@@ -157,3 +157,19 @@ If you use Sigma Detector or Shadow Theory methodology in your research, please 
 ---
 
 *"Be a careful steward of what you're given before asking to be trusted with more."*
+
+
+## Patent Status
+
+Reference implementation of the Sigma anomaly-detection method derived
+from Shadow Theory (Benson II, L., Zenodo DOI: 10.5281/zenodo.19476061).
+
+Foundational Shadow Theory framework — including the Shadow Sign Function,
+Shadow State classification, and transition detection methods — is covered
+under USPTO Provisional Application #64/036,030 (filed April 10, 2026) by
+Leonard Benson II / Altus Level Up AI LLC, Adelanto, California.
+
+Production implementations, including the full-fidelity Sigma scoring engine
+and tiered deployment architectures, are subject to additional patent
+applications pending. Commercial use requires licensing inquiry to
+Altus Level Up AI LLC.
