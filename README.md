@@ -16,7 +16,8 @@ This repository implements methods covered by:
 - **Zenodo Publication, DOI [10.5281/zenodo.19476061](https://doi.org/10.5281/zenodo.19476061)** — Shadow Theory: Resolution-Invariant Sign Topology Framework.
 - **Mathematical Logic Quarterly** — Manuscript submitted, under review.
 
-**Citation required.** See [CITATION.cff](./CITATION.cff). Commercial use requires written license — contact stlraybenson247@gmail.com.
+**Citation required.** See [CITATION.cff](./CITATION.cff). Commercial use requires written license — contact 
+lvlupaiaffiliate@mail.com.
 
 This public release establishes the priority date for the empirical-quantile calibration methodology (May 19, 2026) and the Sigma Detector's NAB benchmark result.
 
@@ -136,7 +137,7 @@ A survey of publicly-available NAB-targeted anomaly detectors reveals that curre
 
 This work is released under a **non-commercial research-use license**. See [LICENSE](./LICENSE).
 
-Commercial use, including incorporation into commercial AI safety products, anomaly detection services, or paid software, requires written license from Altus Level Up AI LLC. Contact stlraybenson247@gmail.com for licensing inquiries.
+Commercial use, including incorporation into commercial AI safety products, anomaly detection services, or paid software, requires written license from Altus Level Up AI LLC. Contact lvlupaiaffiliate@mail.com for licensing inquiries.
 
 The underlying Shadow Theory framework is covered by USPTO Provisional Patent Application #64/036,030.
 
